@@ -5,19 +5,19 @@
 Well, you are participating in the races, gentlemen! Who will come first, place your bets. 
 Participants in the race: Stiv, Belka, Silver. The bets are in. Strat!
 
-[Start](https://github.com/Shaikhutdinova/Hippodrom/blob/main/Start.png)
+![Start](https://github.com/Shaikhutdinova/Hippodrom/blob/main/Start.png)
 
 Steve is in the lead. What will be next..
 
-[Equal](https://github.com/Shaikhutdinova/Hippodrom/blob/main/Equal.png)
+![Equal](https://github.com/Shaikhutdinova/Hippodrom/blob/main/Equal.png)
 
 All participants are almost equal.
 
-[Dush](https://github.com/Shaikhutdinova/Hippodrom/blob/main/dush.png)
+![Dush](https://github.com/Shaikhutdinova/Hippodrom/blob/main/dush.png)
 
 But then Stiv makes a quick dash!
 
-[Finish](https://github.com/Shaikhutdinova/Hippodrom/blob/main/finish.png)
+![Finish](https://github.com/Shaikhutdinova/Hippodrom/blob/main/finish.png)
 
 And he wins!!!
 
